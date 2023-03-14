@@ -46,3 +46,18 @@ header {
     border-radius: 5px;
 }
 
+
+/* Main */
+
+.container-main {
+    background-color: white;
+    margin-top: 2px;
+    
+}
+
+main {
+    margin-left: 50px;
+    padding: 10px;
+    padding-top: 30px;
+}
+
