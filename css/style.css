@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* logo */
+
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+header {
+    background-color: white;
+}
+
+#logo {  
+    margin-left: 10px;
+}
+
+#logo-text {
+    font-size: 30px;
+}
+
+/*  */
+
