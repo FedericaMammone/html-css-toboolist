@@ -6,6 +6,7 @@
 
 body {
     background-color: #F6F8F9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .container {
@@ -22,10 +23,15 @@ header {
 
 #logo {  
     margin-left: 10px;
+    height: 70px;
+    width: auto;
+    line-height: 70px;
+    vertical-align: middle;
 }
 
 #logo-text {
     font-size: 30px;
+    
 }
 
 /* Nav */
