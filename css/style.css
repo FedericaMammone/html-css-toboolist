@@ -7,11 +7,20 @@
 /* logo */
 
 body {
-    background-color: rgb(230, 230, 230);
+    background-color: #F6F8F9;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
 }
 
 header {
     background-color: white;
+}
+
+#logo-container {
+
 }
 
 #logo {  
@@ -32,9 +41,9 @@ header {
 
 #butt1 {
     margin-left: 50px;
-    background-color: rgb(108, 178, 236);
+    background-color: #09A9ED;
     padding: 5px;
-    border-color:  rgb(108, 178, 236);
+    border-color:  #09A9ED;
     border-radius: 5px;
 }
 
@@ -58,6 +67,95 @@ header {
 main {
     margin-left: 50px;
     padding: 10px;
-    padding-top: 30px;
+    padding-top: 15px;
 }
 
+h3 {
+    margin-top: 20px;
+   ;
+}
+
+span {
+    line-height: 2;
+}
+
+.categoriaE {
+    background-color: #09A9ED;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px;
+    font-size: 10px;
+
+}
+
+.categoriaQ1 {
+    background-color: #AB5DE6;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px;
+    font-size: 10px;
+}
+
+.categoriaR {
+    background-color: #2CC6AB;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px;
+    font-size: 10px;
+}
+
+.categoriaM {
+    background-color: #FF9B00;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px;
+    font-size: 10px;
+}
+
+.categoriaW {
+    background-color: #EC4A9D;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px;
+    font-size: 10px;
+}
+
+.categoriaS {
+    background-color: #A3D116;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px;
+    font-size: 10px;
+}
+
+.freccia::before {
+    content: "\25bc";
+}
+
+.fatto::before {
+  content: "\2713";
+  font-size: 10px;
+  border: solid 1px ;
+  color: rgb(14, 190, 14);
+  margin-right: 10px;
+  padding: 5px;
+  border-radius: 50%;
+  
+  
+}
+
+.nonFatto::before {
+    content: "\2717";
+    font-size: 10px;
+  border: solid 1px ;
+  color: red ;
+  margin-right: 10px;
+  padding: 5px;
+  border-radius: 50%;
+}
