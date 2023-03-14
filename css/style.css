@@ -22,5 +22,27 @@ header {
     font-size: 30px;
 }
 
-/*  */
+/* Nav */
+
+.container-nav {
+    background-color: white;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+#butt1 {
+    margin-left: 50px;
+    background-color: rgb(108, 178, 236);
+    padding: 5px;
+    border-color:  rgb(108, 178, 236);
+    border-radius: 5px;
+}
+
+#butt2 {
+    background-color: white;
+    color: grey;
+    border-color: grey;
+    padding: 5px;
+    border-radius: 5px;
+}
 
