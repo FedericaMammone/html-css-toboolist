@@ -120,7 +120,8 @@ span {
 }
 
 .freccia::before {
-    content: "\25bc";
+    content: "\25BE";
+    font-size: 20px;
 }
 
 .fatto::before {
@@ -152,6 +153,5 @@ span {
   height: 10px;
   display: inline-block;
   line-height: 10px;
-  
 }
 
