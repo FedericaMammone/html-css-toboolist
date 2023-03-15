@@ -86,54 +86,32 @@ span {
     line-height: 2;
 }
 
-.categoriaE {
+.edi {
     background-color: #09A9ED;
-    color: white;
-    padding: 5px;
-    border-radius: 8px;
-    margin: 5px;
-    font-size: 10px;
-
 }
 
-.categoriaQ1 {
+.Q1 {
     background-color: #AB5DE6;
-    color: white;
-    padding: 5px;
-    border-radius: 8px;
-    margin: 5px;
-    font-size: 10px;
+    
 }
 
-.categoriaR {
+.recr {
     background-color: #2CC6AB;
-    color: white;
-    padding: 5px;
-    border-radius: 8px;
-    margin: 5px;
-    font-size: 10px;
 }
 
-.categoriaM {
+.mob {
     background-color: #FF9B00;
-    color: white;
-    padding: 5px;
-    border-radius: 8px;
-    margin: 5px;
-    font-size: 10px;
 }
 
-.categoriaW {
+.web {
     background-color: #EC4A9D;
-    color: white;
-    padding: 5px;
-    border-radius: 8px;
-    margin: 5px;
-    font-size: 10px;
 }
 
-.categoriaS {
+.sale {
     background-color: #A3D116;
+}
+
+.categoria {
     color: white;
     padding: 5px;
     border-radius: 8px;
@@ -153,7 +131,7 @@ span {
   margin-right: 10px;
   padding: 5px;
   border-radius: 50%;
-  
+
   
 }
 
@@ -165,4 +143,6 @@ span {
   margin-right: 10px;
   padding: 5px;
   border-radius: 50%;
+  
 }
+
