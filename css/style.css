@@ -126,23 +126,32 @@ span {
 .fatto::before {
   content: "\2713";
   font-size: 10px;
+  margin-bottom: 2px;
   border: solid 1px ;
   color: rgb(14, 190, 14);
   margin-right: 10px;
-  padding: 5px;
+  padding: 4px;
   border-radius: 50%;
-
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  line-height: 10px;
   
 }
 
 .nonFatto::before {
-    content: "\2717";
-    font-size: 10px;
+  content: "\2717";
+  font-size: 10px;
+  margin-bottom: 2px;
   border: solid 1px ;
   color: red ;
   margin-right: 10px;
-  padding: 5px;
+  padding: 4px;
   border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  line-height: 10px;
   
 }
 
